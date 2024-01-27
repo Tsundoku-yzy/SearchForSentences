@@ -1,2 +1,3 @@
 # SearchForSentences
-Auto search sentences with the word you give
+Input a word and it returns a sentence made with that word.
+It is implemented through python's request library.
